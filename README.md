@@ -5,9 +5,8 @@ SUBJECT: Print Star Pascal’s Triangle
 
 JAVA
 
-
-
 import java.util.Scanner;
+
 public class Pascal {
 public static void main(String[] args) {
 	    int  k = 0;

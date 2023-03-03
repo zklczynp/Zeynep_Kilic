@@ -1,4 +1,4 @@
-# Zeynep_Kiic
+# Zeynep_Kilic
 
 
 SUBJECT: Print Star Pascal’s Triangle

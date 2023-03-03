@@ -3,7 +3,7 @@
 
 SUBJECT: Print Star Pascal’s Triangle
 
-JAVA
+JAVA CODE :
 
 import java.util.Scanner;
 
@@ -30,6 +30,7 @@ public static void main(String[] args) {
 	    }
 	  }
 	}
+	
 SAMPLE OUTPUT:
 
 <img width="335" alt="Ekran Resmi 2023-03-03 22 32 04" src="https://user-images.githubusercontent.com/119444731/222814286-903b995f-aef2-4efc-862e-50f26445931a.png">

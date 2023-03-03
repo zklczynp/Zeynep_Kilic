@@ -8,11 +8,11 @@ JAVA
 import java.util.Scanner;
 
 public class Pascal {
+
 public static void main(String[] args) {
-	    int  k = 0;
-	    
+
+	    int  k = 0;	    
 	    Scanner in = new Scanner(System.in);
-	    
 	    System.out.println("Enter the number of rows in Pascal's Triangle:");
 	    int rows=in.nextInt();
 	    
